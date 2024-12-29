@@ -1,10 +1,8 @@
-API_ID = int(getenv("API_ID", "0"))
-API_HASH = getenv("API_HASH", "0")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-STRING_SESSION = getenv("STRING_SESSION", None)
-MONGO_DB_URL = getenv("MONGO_DB_URL", None)
-OWNER_ID = int(getenv("OWNER_ID", None))
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", None))
-START_IMAGE_URL = getenv("START_IMAGE_URL", None)
-REPO_IMAGE_URL = getenv("REPO_IMAGE_URL", None)
-STATS_IMAGE_URL = getenv("STATS_IMAGE_URL", None)
+API_ID = 20252902
+API_HASH = 5686c6a3cb3e303178c060c980a4ec9b
+BOT_TOKEN = 7850242703:AAG4o7FVwmv3zrA5sc76OF65lVij4Sb7XDc
+STRING_SESSION = BQE7o2wAEnNkPZ14IKvtb5NpQruPQBIl-naiaRJD-AGg0Q-N2Ip8og7xxqc8wAEjPH6GkJg-OeEakkeQnLJKvYzgOuNrFIQi4ath3rErlJXznsuFVqcPSdURkAGaq6sbdiTOFxO-qr_uy7zrh-to9l9Vqb_0GniKCz1Bqi4Vyjr8tWuHUYpLBRovB425t5SfTZYjiGIVhYRHXRJX5OeO9RNs_2XUM3qv5Vw0kjJ0tBMPNrvuTA2fWXYYMN7sIg3aptG9OnxWH1_fRj6CV_NaaM7OWdbg0a8MJlZp-ez41vOs2IGb_63mWU0bepbDz2wR_wbsHW8sQH666wEGL1o1OO9689qx6QAAAAF8lrZmAA
+MONGO_DB_URL = mongodb+srv://Userbot:shiv@cluster0.m5z1q.mongodb.net/?retryWrites=true&w=majority
+OWNER_ID = 7491834397
+LOG_GROUP_ID = -1002465721301
+START_IMAGE_URL = https://graph.org/file/ee9f6b1be6d935412b144-224fb3eeaeb60a815b.jpg
